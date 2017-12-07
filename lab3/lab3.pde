@@ -2,7 +2,7 @@ Button b;
 Parser data;
 PieChart pie;
 void setup() {
-  size(500,600);
+  size(800,600);
   b = new Button();
   String filename = "data_lab3.csv";
   data = new Parser();
