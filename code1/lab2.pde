@@ -2,7 +2,7 @@ Parser data;
 BarGraph bar;
 
 void setup(){
-  size(800, 1000);
+  size(300, 400);
   
   
   data = new Parser();
