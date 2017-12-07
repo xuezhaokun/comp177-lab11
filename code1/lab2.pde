@@ -3,9 +3,9 @@ BarGraph bar;
 
 void setup(){
   size(800, 1000);
-  if (surface != null) {
-    surface.setResizable(true);
-  }
+  //if (surface != null) {
+  //  surface.setResizable(true);
+  //}
   
   data = new Parser();
   String filePath = "data.csv";
